@@ -1,7 +1,7 @@
-Hi there! 👋
+Hello, my name is Astro 👋
 ============================================
 
-I'm Astro and this account is a showcase of stuff that I like working on.
+This account is a showcase of stuff that I like working on.
 
 * 🚀  I'm currently working on [Next.js Store E-Commerce](https://nextjs-storefront-project.vercel.app/)
 * 💬  Ask me about anything (within reason)
