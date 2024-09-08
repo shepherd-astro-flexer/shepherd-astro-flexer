@@ -1,4 +1,4 @@
-Hello, my name is Astro 👋
+Hello, my name is Astro. 👋
 ============================================
 
 This account is a showcase of stuff that I like working on.
